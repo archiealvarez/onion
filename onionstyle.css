@@ -1,0 +1,30 @@
+h1,h2{
+	font-family: georgia;
+	text-align: center;
+	}
+
+h1	{
+	color: #006400;
+}
+
+p {
+	line-height: 19px;
+	text-align: justify;
+}
+
+.uppercase {
+	text-transform:uppercase;
+}
+
+a:link	{
+	text-decoration: none;
+}
+
+a:hover	{
+	text-decoration: underline;
+}
+
+div	{
+	color: red;
+	text-align: center;
+}
